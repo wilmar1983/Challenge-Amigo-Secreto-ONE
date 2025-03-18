@@ -24,8 +24,8 @@ Características principales:
 *🔗 Acceso al Proyecto
 
 Puedes acceder al código fuente del proyecto en el siguiente enlace:
-- Repositorio en GitHub:
-  [text](https://github.com/wilmar1983/Challenge-ONE-Amigo-Secreto.git)
+- [text](https://github.com/wilmar1983/Challenge-Amigo-Secreto-ONE.git)
+
 
 *🛠️ Tecnologías Utilizadas
 
