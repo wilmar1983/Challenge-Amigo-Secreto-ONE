@@ -20,13 +20,6 @@ Características principales:
 - Funcionalidad principal implementada y funcionando correctamente.
 - Posibles mejoras en interfaz gráfica y exportación de resultados.
 
-
-*🔗 Acceso al Proyecto
-
-Puedes acceder al código fuente del proyecto en el siguiente enlace:
-- [text](https://github.com/wilmar1983/Challenge-Amigo-Secreto-ONE.git)
-
-
 *🛠️ Tecnologías Utilizadas
 
 Este proyecto fue desarrollado con las siguientes tecnologías:
