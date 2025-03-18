@@ -1,6 +1,6 @@
 🎁 Challenge Amigo Secreto
 
-![alt text](/challenge-amigo-secreto_esp-main/assets/imgch.jpeg)
+![alt text](/challenge-amigo-secreto-ONE_esp-main/assets/imgch.jpeg)
 *📖 Descripción del Proyecto
 
 El Amigo Secreto es una aplicación web que permite organizar sorteos de manera fácil y rápida. Los usuarios pueden ingresar nombres en una lista y realizar un sorteo justo y aleatorio. Además, la lista se actualiza dinámicamente y oculta los nombres a medida que son sorteados.
